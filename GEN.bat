@@ -1,0 +1,2 @@
+GENALGO.exe
+pause
